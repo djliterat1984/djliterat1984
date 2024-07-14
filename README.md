@@ -12,6 +12,6 @@
 
 # 💪 💪 💪 💪 💪 💪
 
-- 🌱 I’m currently learning Fullstack course (JS and PY).
+## - 🌱 I’m currently learning Fullstack course (JS and PY).
   
 ![—Pngtree—flexed biceps_13809992](https://github.com/user-attachments/assets/52f6b2e3-b365-40aa-91f0-e14bcc2731af)

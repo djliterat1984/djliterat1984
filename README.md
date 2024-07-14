@@ -4,13 +4,13 @@
 
 ##I'm a 📱 developer, I have experience in 
 
-###👉 Xamarin Forms (c#) 
-###👉 React Native 
+👉 ### Xamarin Forms (c#) 
+### 👉 React Native 
 
-###Skills: Version control GIT - Postman - Ble - Typescript - GitHub - Redux - 
-###Data traffic with JSON - Visual Studio - .Net - C# - MVVM - ASP.NET - MVC - ESC/POS - ADOBE XD
+### Skills: Version control GIT - Postman - Ble - Typescript - GitHub - Redux - 
+### Data traffic with JSON - Visual Studio - .Net - C# - MVVM - ASP.NET - MVC - ESC/POS - ADOBE XD
 
-##💪 💪 💪 💪 💪 💪
+## 💪 💪 💪 💪 💪 💪
 
 - 🌱 I’m currently learning Fullstack course (JS and PY).
   
